@@ -1,9 +1,9 @@
 # Hi, I´m Iván
 
-![Banner](C:\Users\afova\source\repos\readmeGithub\images\githubImage.png)
+![Banner](https://raw.githubusercontent.com/ivanafons0/ivanafons0/main/images/githubImage.png)
 
 
 ## Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=ivanafons0)
+(![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivanafons0)
 
 
