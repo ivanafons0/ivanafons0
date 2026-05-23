@@ -4,6 +4,6 @@
 
 
 ## Estadísticas
-(![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivanafons0)
+(![GitHub Stats](https://streak-stats.demolab.com?user=ivanafons0&theme=dark)
 
 
